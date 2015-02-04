@@ -1,5 +1,5 @@
 
-/r/serendipity is a meta-subreddit meant to broaden the perspective of 
+[/r/serendipity](http://reddit.com/r/serendipity) is a meta-subreddit meant to broaden the perspective of 
 its subscribers. It takes a popular entry from a random subreddit and 
 posts it every few hours. If you want to increase your exposure to niche 
 subreddits, or just your perspective on things on the web in general, 
